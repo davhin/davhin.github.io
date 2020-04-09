@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Hinrichs</title>
+    <link>https://davidhinrichs.de/en/</link>
+    <description>Recent content on David Hinrichs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://davidhinrichs.de/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Render LaTeX using KaTeX</title>
+      <link>https://davidhinrichs.de/en/posts/render-latex-using-katex/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidhinrichs.de/en/posts/render-latex-using-katex/</guid>
+      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
++++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
+It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
+Inline math looks like this
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://davidhinrichs.de/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidhinrichs.de/en/about/</guid>
+      <description>Hi, I&amp;rsquo;m David I am a Berlin-based mathematician with an interest in practical data science that measurably improves people&amp;rsquo;s lives.
+Currently I work as a data science consultant at idalab and volunteer on the core team of Data Science for Social Good Berlin. I also work on with the people from rocs.
+If you would like to get in touch, contact me via mail[at]thisdomain, my PGP public key (optional!) is here.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://davidhinrichs.de/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidhinrichs.de/en/projects/</guid>
+      <description>Coming ~05/2020</description>
+    </item>
+    
+  </channel>
+</rss>

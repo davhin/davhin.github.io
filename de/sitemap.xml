@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://davidhinrichs.de/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/series/hugo/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/series/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/series/hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/posts/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/posts/render-latex-using-katex/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/posts/render-latex-using-katex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/posts/render-latex-using-katex/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/series/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/series/theme/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/series/theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/series/theme/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/tags/"
+                />
+  </url>
+  
+</urlset>
