@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://davidhinrichs.de/categories/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/posts/laptop-installation/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/posts/laptop-installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/posts/laptop-installation/"
+                />
+  </url>
+  
+  <url>
     <loc>https://davidhinrichs.de/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,23 +48,38 @@
   </url>
   
   <url>
-    <loc>https://davidhinrichs.de/series/hugo/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <loc>https://davidhinrichs.de/tags/development/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidhinrichs.de/en/series/hugo/"
+                href="https://davidhinrichs.de/en/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://davidhinrichs.de/series/hugo/"
+                href="https://davidhinrichs.de/tags/development/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/series/idalab/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/series/idalab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/series/idalab/"
                 />
   </url>
   
   <url>
     <loc>https://davidhinrichs.de/posts/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,23 +93,8 @@
   </url>
   
   <url>
-    <loc>https://davidhinrichs.de/posts/render-latex-using-katex/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://davidhinrichs.de/en/posts/render-latex-using-katex/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://davidhinrichs.de/posts/render-latex-using-katex/"
-                />
-  </url>
-  
-  <url>
     <loc>https://davidhinrichs.de/series/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,17 +108,107 @@
   </url>
   
   <url>
-    <loc>https://davidhinrichs.de/series/theme/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <loc>https://davidhinrichs.de/tags/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://davidhinrichs.de/en/series/theme/"
+                href="https://davidhinrichs.de/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://davidhinrichs.de/series/theme/"
+                href="https://davidhinrichs.de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/categories/technical/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/categories/technical/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/categories/technical/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/tags/tooling/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/tags/tooling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/tags/tooling/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/posts/errors-statistics-1/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/posts/errors-statistics-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/posts/errors-statistics-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/tags/communication/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/tags/communication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/tags/communication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/categories/data-science/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/categories/data-science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/categories/data-science/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://davidhinrichs.de/tags/statistics/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://davidhinrichs.de/en/tags/statistics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://davidhinrichs.de/tags/statistics/"
                 />
   </url>
   
@@ -103,20 +223,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://davidhinrichs.de/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://davidhinrichs.de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://davidhinrichs.de/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://davidhinrichs.de/categories/"
                 />
   </url>
   
@@ -144,20 +250,6 @@
   
   <url>
     <loc>https://davidhinrichs.de/snippets/</loc>
-  </url>
-  
-  <url>
-    <loc>https://davidhinrichs.de/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://davidhinrichs.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://davidhinrichs.de/tags/"
-                />
   </url>
   
 </urlset>

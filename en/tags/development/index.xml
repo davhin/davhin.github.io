@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on David Hinrichs</title>
+    <link>https://davidhinrichs.de/en/tags/development/</link>
+    <description>Recent content in development on David Hinrichs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://davidhinrichs.de/en/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cutting through the laptop installation jungle</title>
+      <link>https://davidhinrichs.de/en/posts/laptop-installation/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidhinrichs.de/en/posts/laptop-installation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
