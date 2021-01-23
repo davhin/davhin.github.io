@@ -1,18 +1,319 @@
-<!DOCTYPE html><html><head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>David Hinrichs</title>
-<style type="text/css">
-a:link{color:#0085A1}
-img{border-radius: 50%}
-p{ margin: 50px; }
-body{margin:30px auto;max-width:700px;line-height:1.6;font-size:20px;color:#444;background-color:#EEEEEE;padding:15px}h1,h2,h3{line-height:1.4}</style></head>
-<body>
-<header>
-<h2>David Hinrichs</h2>
-</header>
-I am a Berlin-based technologist and consultant interested in creating data science solutions that benefit everyone involved. I am on <a href="https://twitter.com/davhin11">Twitter</a> and <a href="https://www.linkedin.com/in/david-hinrichs-398299109/">LinkedIn</a>, you can contact me (<a href="https://api.protonmail.ch/pks/lookup?op=get&search=username@protonmail.com">public key</a>) via firstname.lastname[at]pm.me
-<h3>Currently,</h3> I am leading the data science team of the world's largest public health data donation project in the ongoing fight against covid-19 at the <a href="https://corona-datenspende.de/science/en/">Robert Koch Institute</a></p>
-<hr>
-<p><small>Impressum: David Hinrichs, Stettiner Str. 39, 13357 Berlin</small></p>
-</body></html>
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>David Hinrichs</title>
+      <!-- Google Fonts -->
+      <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+      <link rel="stylesheet" href="css/swiper.min.css">
+      <link rel="stylesheet" href="css/jquery.animatedheadline.css">
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="css/font-awesome.min.css">
+      <link rel="stylesheet" href="css/magnific-popup.css">
+      <link rel="stylesheet" type="text/css" href="css/component.css" />
+      <script src="js/modernizr.custom.js"></script>
+   </head>
+   <body>
+      <!-- Preloader -->
+
+      <div class="preloader-wrap">
+         <div class="preloader">
+            <div class="lines">
+               <div class="line line-1"></div>
+               <div class="line line-2"></div>
+               <div class="line line-3"></div>
+            </div>
+         </div>
+      </div>
+
+      <!-- Main Wrap Section -->
+
+      <div class="wrap">
+         <div id="bl-main" class="bl-main">
+            <section class="about">
+               <div class="bl-box">
+                  <canvas id="particles"></canvas>
+                  <div class="container">
+                     <div class="row">
+                        <div class="info-wrapper">
+                           <div class="col-md-12 text-center">
+                              <h3>David Hinrichs</h3>
+                              <p class="title">ABOUT</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="bl-content">
+
+                  <!-- About Section -->
+
+                  <div class="info" id="info">
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-lg-6 col-md-12 col-xs-12">
+                              <h2 class="title">About</h2>
+                              <hr class="line">
+                              <div class="about-us-txt">
+                                 <p>
+                                   I am a Berlin-based data scientist. You can reach me via mail@davidhinrichs.de
+                                </p>
+                              </div>
+                              <div class="about-icon">
+                                 <ul>
+                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+
+                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+
+                                 </ul>
+                              </div>
+                           </div>
+                           <div class="col-lg-6 col-md-12 col-xs-12">
+                              <div class="img-wrap">
+                                 <div class="about-us-img">
+                                    <img src="images/single.jpg" class="img-fluid" alt="about images">
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+
+                  <!-- Footer Section -->
+
+                  <footer>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-md-12 col-xs-12 text-center">
+                              <h4>Copyright &copy; David Hinrichs, Stettiner Str. 39, Berlin</h4>
+                           </div>
+                        </div>
+                     </div>
+                  </footer>
+               </div>
+
+               <img src="images/close.png" class="bl-icon bl-icon-close" alt="close">
+
+            </section>
+
+            <!-- Portfolio Section -->
+
+            <section id="bl-work-section">
+               <div class="bl-box">
+                  <div class="col-md-12 text-center">
+                     <div class="selector">
+                        <h1 class="ah-headline">
+                           <span>I'm a</span>
+                           <span class="ah-words-wrapper">
+                           <b class="is-visible">Data Scientist</b>
+                           <b>Consultant</b>
+                           </span>
+                        </h1>
+                     </div>
+                     <p class="title">PORTFOLIO</p>
+                  </div>
+               </div>
+               <div class="bl-content">
+                  <div class="col-md-12 text-center">
+                     <h2 class="work-title">My Works</h2>
+                     <p>SOME OF MY BEST PROJECTS</p>
+                  </div>
+                  <ul id="bl-work-items" class="text-center">
+                     <li data-panel="panel-1"><a href="#"><img src="images/project.jpg" alt="project" /></a></li>
+                     <li data-panel="panel-2"><a href="#"><img src="images/project.jpg" alt="project" /></a></li>
+                     <li data-panel="panel-3"><a href="#"><img src="images/project.jpg" alt="project" /></a></li>
+                     <li data-panel="panel-4"><a href="#"><img src="images/project.jpg" alt="project" /></a></li>
+                     <li data-panel="panel-5"><a href="#"><img src="images/project.jpg" alt="project" /></a></li>
+                     <li data-panel="panel-6"><a href="#"><img src="images/project.jpg" alt="project" /></a></li>
+                     <li data-panel="panel-7"><a href="#"><img src="images/project.jpg" alt="project" /></a></li>
+                     <li data-panel="panel-8"><a href="#"><img src="images/project.jpg" alt="project" /></a></li>
+                  </ul>
+               </div>
+               <img src="images/close.png" class="bl-icon bl-icon-close" alt="close">
+            </section>
+
+            <!-- Panel items for the works -->
+
+            <div class="bl-panel-items" id="bl-panel-work-items">
+               <div data-panel="panel-1">
+                  <div>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-md-6">
+                              <img src="images/single.jpg" class="img-fluid" alt="project-image">
+                           </div>
+                           <div class="col-md-6">
+                              <h3>PROJECT TITLE</h3>
+                              <h5>Client: Design Company</h5>
+                              <p>Iphone artisan direct trade ethical Austin. Fixie bespoke banh mi ugh, deep v vinyl hashtag. Tumblr gentrify keffiyeh pop-up iphone twee biodiesel. Occupy american apparel freegan cliche. Mustache trust fund 8-bit jean.</p>
+                              <div class="project-btn">
+                                 <a class="btn btn-default" href="project.html" role="button">VISIT PROJECT</a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div data-panel="panel-2">
+                  <div>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-md-6">
+                              <img src="images/single.jpg" class="img-fluid" alt="project-image">
+                           </div>
+                           <div class="col-md-6">
+                              <h3>PROJECT TITLE</h3>
+                              <h5>Client: Design Company</h5>
+                              <p>Iphone artisan direct trade ethical Austin. Fixie bespoke banh mi ugh, deep v vinyl hashtag. Tumblr gentrify keffiyeh pop-up iphone twee biodiesel. Occupy american apparel freegan cliche. Mustache trust fund 8-bit jean.</p>
+                              <div class="project-btn">
+                                 <a class="btn btn-default" href="project.html" role="button">VISIT PROJECT</a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div data-panel="panel-3">
+                  <div>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-md-6">
+                              <img src="images/single.jpg" class="img-fluid" alt="project-image">
+                           </div>
+                           <div class="col-md-6">
+                              <h3>PROJECT TITLE</h3>
+                              <h5>Client: Design Company</h5>
+                              <p>Iphone artisan direct trade ethical Austin. Fixie bespoke banh mi ugh, deep v vinyl hashtag. Tumblr gentrify keffiyeh pop-up iphone twee biodiesel. Occupy american apparel freegan cliche. Mustache trust fund 8-bit jean.</p>
+                              <div class="project-btn">
+                                 <a class="btn btn-default" href="project.html" role="button">VISIT PROJECT</a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div data-panel="panel-4">
+                  <div>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-md-6">
+                              <img src="images/single.jpg" class="img-fluid" alt="project-image">
+                           </div>
+                           <div class="col-md-6">
+                              <h3>PROJECT TITLE</h3>
+                              <h5>Client: Design Company</h5>
+                              <p>Iphone artisan direct trade ethical Austin. Fixie bespoke banh mi ugh, deep v vinyl hashtag. Tumblr gentrify keffiyeh pop-up iphone twee biodiesel. Occupy american apparel freegan cliche. Mustache trust fund 8-bit jean.</p>
+                              <div class="project-btn">
+                                 <a class="btn btn-default" href="project.html" role="button">VISIT PROJECT</a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div data-panel="panel-5">
+                  <div>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-md-6">
+                              <img src="images/single.jpg" class="img-fluid" alt="project-image">
+                           </div>
+                           <div class="col-md-6">
+                              <h3>PROJECT TITLE</h3>
+                              <h5>Client: Design Company</h5>
+                              <p>Iphone artisan direct trade ethical Austin. Fixie bespoke banh mi ugh, deep v vinyl hashtag. Tumblr gentrify keffiyeh pop-up iphone twee biodiesel. Occupy american apparel freegan cliche. Mustache trust fund 8-bit jean.</p>
+                              <div class="project-btn">
+                                 <a class="btn btn-default" href="project.html" role="button">VISIT PROJECT</a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div data-panel="panel-6">
+                  <div>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-md-6">
+                              <img src="images/single.jpg" class="img-fluid" alt="project-image">
+                           </div>
+                           <div class="col-md-6">
+                              <h3>PROJECT TITLE</h3>
+                              <h5>Client: Design Company</h5>
+                              <p>Iphone artisan direct trade ethical Austin. Fixie bespoke banh mi ugh, deep v vinyl hashtag. Tumblr gentrify keffiyeh pop-up iphone twee biodiesel. Occupy american apparel freegan cliche. Mustache trust fund 8-bit jean.</p>
+                              <div class="project-btn">
+                                 <a class="btn btn-default" href="project.html" role="button">VISIT PROJECT</a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div data-panel="panel-7">
+                  <div>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-md-6">
+                              <img src="images/single.jpg" class="img-fluid" alt="project-image">
+                           </div>
+                           <div class="col-md-6">
+                              <h3>PROJECT TITLE</h3>
+                              <h5>Client: Design Company</h5>
+                              <p>Iphone artisan direct trade ethical Austin. Fixie bespoke banh mi ugh, deep v vinyl hashtag. Tumblr gentrify keffiyeh pop-up iphone twee biodiesel. Occupy american apparel freegan cliche. Mustache trust fund 8-bit jean.</p>
+                              <div class="project-btn">
+                                 <a class="btn btn-default" href="project.html" role="button">VISIT PROJECT</a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div data-panel="panel-8">
+                  <div>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-md-6">
+                              <img src="images/single.jpg" class="img-fluid" alt="project-image">
+                           </div>
+                           <div class="col-md-6">
+                              <h3>PROJECT TITLE</h3>
+                              <h5>Client: Design Company</h5>
+                              <p>Iphone artisan direct trade ethical Austin. Fixie bespoke banh mi ugh, deep v vinyl hashtag. Tumblr gentrify keffiyeh pop-up iphone twee biodiesel. Occupy american apparel freegan cliche. Mustache trust fund 8-bit jean.</p>
+                              <div class="project-btn">
+                                 <a class="btn btn-default" href="project.html" role="button">VISIT PROJECT</a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <nav>
+                  <span class="bl-next-work">&gt; Next Project</span>
+                  <span class="bl-icon bl-icon-close"></span>
+               </nav>
+            </div>
+         </div>
+      </div>
+
+      <!-- /container -->
+
+      <script src="js/jquery-3.5.1.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/common.js"></script>
+      <script src="js/jquery.animatedheadline.min.js"></script>
+      <script src="js/jquery.magnific-popup.min.js"></script>
+      <script src="js/particles.js"></script>
+      <script src="js/particles-custom.js"></script>
+      <script src="js/swiper.min.js"></script>
+      <script src="js/custom.js"></script>
+      <script src="js/boxlayout.js"></script>
+      <script>
+         $(function() {
+          Boxlayout.init();
+         });
+      </script>
+   </body>
+</html>
